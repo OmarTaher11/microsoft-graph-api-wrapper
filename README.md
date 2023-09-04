@@ -80,7 +80,3 @@ This is a Python wrapper for interacting with the Microsoft Graph API to manage 
    # Mark all unread messages as read
    graph.clear_box()
    ```
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
